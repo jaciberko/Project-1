@@ -1,9 +1,5 @@
-.apple{font-size:8em;}
-
-.boat{color: #0f0;}
-
-
-
-.logo{font-size:;}
+h1 { font-size: 3.5em; }
+h1,h2,h3 {color: #222;}
+p { font-size: 18px; line-height: 1.6em; color: #333;}
 
 
